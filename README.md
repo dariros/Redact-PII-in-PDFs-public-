@@ -1,6 +1,6 @@
 # PII Redaction Solution - Implementation Guide
 
-This comprehensive guide will walk you through implementing a complete PII redaction solution for PDF files using Snowflake Cortex AI, from initial setup to production deployment.
+This guide presents a prototype solution for PII redaction in PDF files using Snowflake Cortex AI that you can customize to meet your specific needs. Please note that due to a temporary limitation, this solution currently does not work on Snowflake accounts hosted in AWS regions - we hope to resolve this limitation soon.
 
 ## 📁 Project Overview
 
